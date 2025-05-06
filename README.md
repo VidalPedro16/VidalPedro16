@@ -2,7 +2,27 @@
 
 **`Programador/Analista`**
 
-Me chamo Pedro Vidal, tenho 21 anos e sou natural do Paraná. Concluí o curso livre de Análise de Dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub com exercícios para práticar. Fique a vontade para clonar o repositório.
+21 anos | Natural do Paraná
+
+🎓 Formação Acadêmica
+
+* Cursando Análise e Desenvolvimento de Sistemas na UNINOVE
+
+* Certificado em Análise de Dados (curso livre)
+
+💻 Habilidades & Tecnologias
+
+* Linguagens de Programação: Python, JavaScript, C++
+
+* Cloud & Infraestrutura: Amazon Web Services (AWS), Computação em Nuvem
+
+* Análise de Dados & BI: Excel, Power BI, SQL, Banco de Dados
+
+* Ferramentas de Desenvolvimento: VS Code, Git/GitHub
+
+🚀 Projetos & Contribuições
+
+* Apaixonado por tecnologia, compartilho conhecimentos e exercícios práticos no meu GitHub. Sinta-se à vontade para explorar e clonar repositórios!
 
 📊 Estatísticas
 
