@@ -1,11 +1,19 @@
-## Seja Bem-Vindo ao meu GitHub! 
+## 👩🏻‍💻 Pedro Vidal
 
-<div>
-    <a href="https://github.com/VidalPedro16">
-    <img height="180em" src="https://github.readme-stats.vercel.app/api?username=VidalPedro16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github.readme-stats.vercel.app/api/top-langs/?username=VidalPedro16&layout=compact&langs_count=16&theme=dracula"/>
-    </a>
-</div>
+**`Programador/Analista`**
+
+Me chamo Pedro Vidal, tenho 21 anos e sou natural do Paraná. Concluí o curso livre de Análise de Dados. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu GitHub com exercícios para práticar. Fique a vontade para clonar o repositório.
+
+📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=VidalPedro16&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 ##
 
