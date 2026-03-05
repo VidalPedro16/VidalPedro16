@@ -2,7 +2,7 @@
 
 **`Programador/Analista`**
 
-21 anos | Natural do Paraná
+22 anos | Natural do Paraná
 
 🎓 Formação Acadêmica
 
